@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/artinspiring/artinspiring1909/artinspiring190900998/130370493-frontend-development-web-banner-concept-website-interface.jpg)](https://anurag.io)
+[![MasterHead](https://pbs.twimg.com/media/EfSnekYWkAEs6mu.jpg:large)](https://anurag.io)
 <h1 align="center">Hi 👋, I'm Anurag Pradhan</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="430"src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
