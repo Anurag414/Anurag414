@@ -1,6 +1,6 @@
 [![MasterHead](https://previews.123rf.com/images/artinspiring/artinspiring1909/artinspiring190900998/130370493-frontend-development-web-banner-concept-website-interface.jpg)](https://anurag.io)
 <h1 align="center">Hi 👋, I'm Anurag Pradhan</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="430"src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag414&label=Profile%20views&color=0e75b6&style=flat" alt="anurag414" /> </p>
 
