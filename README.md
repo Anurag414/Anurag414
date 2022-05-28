@@ -1,7 +1,7 @@
-[![MasterHead](https://www.coderwebdesign.com/assets/admin/uploads/banners/dc1c31b6f9c57632ab4913602736de7f.jpg)](https://anurag.io)
+[![MasterHead](https://previews.123rf.com/images/artinspiring/artinspiring1909/artinspiring190900998/130370493-frontend-development-web-banner-concept-website-interface.jpg)](https://anurag.io)
 <h1 align="center">Hi 👋, I'm Anurag Pradhan</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="430"src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag414&label=Profile%20views&color=0e75b6&style=flat" alt="anurag414" /> </p>
 
 <p align="left"> <a href="https://twitter.com/apradhan9090" target="blank"><img src="https://img.shields.io/twitter/follow/apradhan9090?logo=twitter&style=for-the-badge" alt="apradhan9090" /></a> </p>
