@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/media/EfSnekYWkAEs6mu.jpg:large)](https://anurag.io)
+[![MasterHead]()](https://anurag.io)
 <h1 align="center">Hi 👋, I'm Anurag Pradhan</h1>
 <h3 align="center">A passionate Frontend Developer From India</h3>
 <img align="right" alt="Coding" width="430"src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
